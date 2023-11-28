@@ -1,0 +1,31 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.g-image {
+  max-width: 700px;
+  border-radius: 20px;
+}
+.heading {
+  color: #1e293b;
+  margin-top: 8px;
+}
+.des {
+  color: #64748b;
+  margin-top: 8px;
+}
+
+.card-con {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 0px;
+}
